@@ -1,4 +1,5 @@
-import MediaGallery from "./components/MediaGallery";
+// import MediaGallery from "./components/MediaGallery";
+import MediaGallery from "./MediaGallery.jsx";
 
 function App() {
   return (

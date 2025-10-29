@@ -1,6 +1,5 @@
-import "./MediaGallery.css";
-import sampleImage from "../assets/sample.jpg";
-
+import "./App.css";
+import sampleImage from "./assets/sample.jpg";
 function MediaGallery() {
   return (
     <div className="gallery-container">
